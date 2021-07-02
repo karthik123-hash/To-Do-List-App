@@ -1,0 +1,23 @@
+.container{
+  .input-container {
+  input{
+    display: flex;
+    position: relative;
+    width: 40vw; 
+    padding: 20px;
+    font-size: 16px;
+    border: 2px solid black;
+    color: black;
+    outline: none;
+    left: 50;
+    right: 50;
+  }
+  .button-container{
+    padding: 0.5pt;
+    position: absolute;
+    right: 18.5vw;
+    display: flex;
+  }
+}
+}
+

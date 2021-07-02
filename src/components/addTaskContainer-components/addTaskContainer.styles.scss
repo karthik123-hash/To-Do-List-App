@@ -1,0 +1,13 @@
+.addTask-Container{
+    width: 65vw;
+    border: 0.1px solid black;
+    display: flex-end;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #ffc375;
+    color: #fff;
+        .input-container{
+          display: flex;
+        }
+  }
